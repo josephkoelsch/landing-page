@@ -62,7 +62,9 @@ button {
     margin-top: 10px;
 }
 
-
+#image1 {
+    width: 50%;
+}
 img {
     width: 200px;
 }
@@ -89,10 +91,7 @@ p {
     flex-direction: column;
     align-content:center;
 }
-.illustrations .cardcontainer img {
-    border: 5px #3882F6;
-    border-radius: 5px;
-}
+
 
 .illustrations {
     display: flex;
