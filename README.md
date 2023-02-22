@@ -1,5 +1,9 @@
 # landing-page
 
+I've been learning to code with Project Odin for the last month or so. This is my second project; the first being the recipes project.
+I'm pretty proud of the way the site turned out, although I'm sure that the code isn't as elegant as it could be. In this section of the
+program, I've really started to be able to see how the items on a web-page are laid out, and how to make those layouts happen using flex.
+
 Image Credits
 
 1. "Woman Jumping Wearing Green Backback" (https://www.pexels.com/photo/woman-jumping-wearing-green-backpack-214574/) taken by Sebastian Arie Voortman (https://www.pexels.com/@sebastian/). 
